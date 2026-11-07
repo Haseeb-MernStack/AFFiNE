@@ -28,12 +28,12 @@
     "@toeverything/theme": "^1.1.23",
     "@types/katex": "^0.16.7",
     "@types/mdast": "^4.0.4",
-    "katex": "^0.16.27",
+    "katex": "^0.18.2",
     "lit": "^3.2.0",
     "minimatch": "^10.1.1",
     "remark-math": "^6.0.0",
     "rxjs": "^7.8.2",
-    "zod": "^3.25.76"
+    "zod": "^4.6.6"
   },
   "exports": {
     ".": "./src/index.ts",
